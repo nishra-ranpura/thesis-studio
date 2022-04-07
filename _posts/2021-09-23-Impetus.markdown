@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Impetus"
+date:   2021-09-22 18:03:06 -0400
+categories: jekyll update
+---
+> Travel through my train of thoughts, while I try to make sense of anything and everything. 
+
+
+
+_Personal contributors_--\\
+**What is the Impetus for my Thesis exploration?**\\
+The question seemed both extremely easy and incredibly difficult to answer in the first instance. The immediate and vague response I sensed myself having to the question was, 
+>“curiosity to understand”.  
+
+But as soon as I started exploring the specificities of this thought, it became less understandable in itself. Hence, I decided to start pulling on this thread a bit more, and asked myself, 
+
+>“Where and how has the ‘need to understand’ been present in my practices?” 
+
+And I came up with the following:
+- When I decided to study Textiles, it was to understand the core concepts of fabrication before trying to look at its fields of application, such as apparel or home products.
+- When I decided to work with manufacturing studios, it was to understand the system from its root before going on to further layers, such as buying houses, brands, and consumers.
+- When I started exploring the intersection between technology and textiles (or basically technology and anything, because when has technology ever been separated?), I decided to look at technology, isolated first, before looking at its role with textiles (hence MFADT).
+- When I recently started learning programming languages, it was always important to understand and write those individual and expanded lines of codes before composing them into a more efficient format of loops, classes, objects, etc.
+- I eventually discovered that the list surprisingly goes on forever, whether it is about small tasks or major decisions. Understanding the workings of a system, any kind of system, is crucial.
+
+Do I see specific outcomes out of these conscious or unconscious decisions? I have realized that accidental discoveries have contributed greatly to my practices. The journey so far has been one of,
+
+>“Evolution”
+
+Let me begin by stating some confusing statements because they seem important and nonsensical at the same time:
+
+>“I am aware that I am unaware.”
+>“I learn to learn.”
+
+My process of understanding involves experimentation, looking at things from unusual perspectives, and evolving with the new information that comes from these explorations. My projects and practices so far come from a personal place, and 
+>“a place of empathy”. 
+
+About personal space got developed from my experiences with the discomfort from lack of personal space; Last Words was about a cathartic experience regarding personal losses from Covid-19; Exist was a literal translation of experiential purgatory during the pandemic; and; સ્વ-/sʋá/: Self- was born from the struggles to understand the black box of data science, evolved with the knowledge about data feminism, and was applied through the experiences about crafts-world. Thus,
+
+>“Anthropology of the notion, any notion, plays a significant role.”
+
+_Professional and academic contributors_--\\
+My Professional experience is a major contributor towards my preference of the medium (which can be textiles, any other craft, or process itself as a medium). My intimate encounters with crafting and making have given me meaningful insights towards the significance of ‘process’ and ‘pedagogy’. Whereas, my experience in the industrial vista of textiles introduced me to the first-hand responses to new technologies surrounding textiles. The debate around digital fabrication being useful and sustainable to make the production more efficient, versus, it not being fulfilling enough to give a holistic textile experience is ever more prominent now. Having experienced both sides of the stories makes me intrigued towards exploring the relationship between the digital and physical, or whatever other generic classification feels the most relevant here. It is fascinating to think about the parallels, comparisons, and divergences around the processes of making on the digital versus virtual world, and the consequent interfaces.
+
+In addition to that, my encounters with the Design and Technology community  and resources at The New School brought upon a flood of information that I struggle to cope with and understand. However, it also led to discoveries of new perspectives to learn and understand. It has given me new takes on understanding the intangibles of technology, and looking at interfaces in novel ways. Hence, it appears that my professional and academic impressions are somehow paving the way for my future practices including thesis. I just need to discover where it is leading to. 
+
+_Concerns_--\\
+While I tried to trace down my impetus for thesis explorations, I also came across certain concerns surrounding my take with the thesis.
+- I am trying to understand the notion of interfaces and relationships, but am I being restricted by my past experiences with Textiles as a medium?
+- Is my personal perception too subjective to be relevant? How much does it matter either way?
+
+_Approach_--\\
+**Where do I see the thesis contributing?**
+While I am interested in an unorthodox or unconventional outcome, I do want to not lose sight of pragmatism. Contribution in the form of research to academia or industry is appealing, and keeping doors open to possibilities based on the research is exciting. But how effective might such an approach be?

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Mind Maps"
+date:   2021-09-21 18:03:06 -0400
+categories: jekyll update
+---
+We are always compartmentalizing our thoughts, and sorting them into mental drawers or rooms or folders, whatever one can resonate with. Hence, coming back to mindmaps, this time, not just to give form to abstract thoughts, but to think rather deeply about the context of our areas of interests with the world, I, along side Salil Parekh, speculated on future scenarios. While the final outcome might not have been based on solid research, but rather our personal opinions and experiences, a conversation through different perspectives was helpful to untangle some knots.
+
+![futures-cone](/thesis-studio/assets/futurescone.png){:class="img-responsive"} [download larger pdf here](/thesis-studio/assets/futures-cone.pdf){:target="_blank"}.
+
+Below is an attempt to translate the relationship between the keywords, and some conversation points for the futures-scenarios above.
+
+![Mindmap](/thesis-studio/assets/Mindmap.png){:class="img-responsive"}[download larger image here](/thesis-studio/assets/Mindmap.png){:target="_blank"}.
+
+Below is another example, a more structured mapping. 
+
+![DomainMap](/thesis-studio/assets/DomainMap.png){:class="img-responsive"}[download larger image here](/thesis-studio/assets/DomainMap.png){:target="_blank"}.

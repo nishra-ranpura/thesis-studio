@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Keywords"
+date:   2021-09-10 20:03:06 -0400
+categories: jekyll update
+---
+Which domains and academic fields of studies are relevant?\\
+1. Ethnocumputing
+2. Data Crafting
+3. Anthropology and Design
+4. Human-nonhuman Ethnography
+5. Human-computer interaction (HCI)
+6. Human-nature interaction
+7. Computer-culture interaction
+8. STEAM Pedagogy / Experimental Studies
+9. Research through Design (RtD)
+10. Unconventional interfaces
+11. Embodied learning / embodied interaction / embodied design
+12. Aesthetics
+13. Affordances
+14. Bricolage Theory
+15. Morphogenetic Making
+16. Crafting Proxy
+17. Material API
+18. Maker-bias
+19. Immaterial
+20. Digital Fabrication / Computer-aided design
+21. Craftsmanship
+22. Anthropomorphisation
+23. Simulacrum
+24. Material epistemology
+25. Master-apprentice model
+26. Hysteresis
+27. Anthropocene
+
