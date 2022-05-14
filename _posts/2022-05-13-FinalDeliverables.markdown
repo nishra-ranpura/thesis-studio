@@ -5,6 +5,7 @@ date:   2022-05-13 18:03:06 -0400
 categories: jekyll update
 ---
 
+![looking through the lens of textiles](/thesis-studio/assets/lens.jpg){:class="img-responsive"}
 
 
 [Concept](https://nishra-ranpura.github.io/thesis-studio/jekyll/update/2022/03/16/ConceptStatementRevised.html){:target="_blank"}
