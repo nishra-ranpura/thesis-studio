@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Audience"
+date:   2022-04-14 18:03:06 -0400
+categories: jekyll update
+---
+
+**What do I imagine to be a highly successful outcome of my research?**
+
+Inspiring ideas into the audiences and seeing something move forward. Questions being asked out of the research. 
+
+**What do I imagine to be an extremely undesirable outcome for my research?**
+
+Audience not finding it relevant. Audience being indifferent about it. 
+
+**What happens when I talk about my research with different audiences?**
+
+- _When I talk with peers in a similar field or environment:_
+ There are questions, suggestions, ideas, compliments, comments, often related to their own backgrounds. It always adds to my research.
+
+- _When I talk with peers or experts in the field very similar to mine:_
+ There are more in depth questions, suggestions, and discussions. There is also a visible productive implementation of these discussions into practice. The feedback is more critical..
+
+- _When I talk with friends or peers from different fields or environments:_
+ There are praises for the concepts and depth of research, questions that seem relevant, but the purpose is unclear for them, especially to the ones who work on the implementation side of industries. 
+
+- _When I talk with my family:_
+ There were doubts and questions but not many because it was hard to understand. There were also acknowledgements of this being a complex topic. 
+
+- _When I talk with strangers:_
+ They ask me to go away (Just kidding, I do not approach strangers talking about my research)
+
+So, is this for an audience who are into academia and research? If so, of what field? Can there be a specific field since this is about collective intelligence, or can the framework and communication be different so it is relevant for a diverse field? Participation from the audience seemed integral for better results. 
+

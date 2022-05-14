@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Form"
+date:   2022-05-05 18:03:06 -0400
+categories: jekyll update
+---
+
+### **A conversation** 
+
+[The first user (Unnecessary Inventions: a discussion on my experiments as prompts)](https://nishra-ranpura.github.io/thesis-studio/jekyll/update/2022/02/11/UserTesting1.html){:target="_blank"} test gave me a glance of what the provocations I propose might lead to. 
+
+[The second user test (Unnecessary Inventions: rapid prototyping of collective intelligence)](https://nishra-ranpura.github.io/thesis-studio/jekyll/update/2022/02/11/UserTesting2.html) helped me situate the notion of collective intelligence I am pursuing. It also helped me observe how intelligence is perceived by different people in different ways. 
+
+[The third user test (performative conference)](https://nishra-ranpura.github.io/thesis-studio/jekyll/update/2022/04/23/UserTesting3.html) helped me realize what is out of place– the time, and the framework of the presentation. It brought me closer to a more suitable form- a conversation. 
+
+[The fourth user test (Unconference: thinking through textiles)](https://nishra-ranpura.github.io/thesis-studio/jekyll/update/2022/05/02/UserTesting4.html), even though not turning out to be the way imagined, certainly affirmed a space where the research was well communicated, and outcomes were more productive than others. It also made me realize the significance of audience participation in my form (Seems obvious in retrospect).
+
+Looking back, the [interviews](https://nishra-ranpura.github.io/thesis-studio/jekyll/update/2021/10/21/Interviews.html){:target="_blank"} is where it all started– a productive outcome through diverse perspectives
+
+### A collective conversation to demonstrate collective intelligence.
