@@ -33,4 +33,3 @@ User Tests:
 
 [Thesis: Interviewing Interfaces: A Memoir by Nishra Ranpura](/thesis-studio/assets/InterWeavingInterfacesAMemoir.pdf){:target="_blank"}
 
-[Website: Interweaving Interfaces](https://interweavinginterfaces.com){:target="_blank"} (under construction till May 16th, 2022)
